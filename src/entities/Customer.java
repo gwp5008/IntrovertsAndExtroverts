@@ -10,6 +10,6 @@ import java.awt.Rectangle;
 public abstract class Customer extends Rectangle {
     public Customer()
     {
-        
+        System.out.println("I just made a change!"); //George Pendleton
     }            
 }
